@@ -76,7 +76,7 @@ const ContactSection = () => {
     setIsSubmitting(true);
 
     try {
-      const response = await fetch('https://vercel.com/yunus1962000-9364s-projects/my-portfolio-web-heu7/GtYTX4M5nX2gnkKwMb368RCmZpvf/send-email', {
+      const response = await fetch('/api/send-email', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
