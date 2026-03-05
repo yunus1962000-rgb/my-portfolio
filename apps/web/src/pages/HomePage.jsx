@@ -163,9 +163,9 @@ const HomePage = () => {
                 transition={{ duration: 0.6, delay: 1.4 }}
                 className="flex flex-wrap justify-center gap-6 mb-10 text-sm md:text-base text-gray-400"
               >
-                <a href="mailto:rajy22908@gmail.com" className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-300">
+                <a href="mailto:yunus1962000@gmail.com" className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-300">
                   <Mail size={18} />
-                  rajy22908@gmail.com
+                  yunus1962000@gmail.com
                 </a>
                 <span className="hidden md:inline">|</span>
                 <a href="tel:+916369307753" className="flex items-center gap-2 hover:text-purple-400 transition-colors duration-300">
