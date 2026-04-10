@@ -121,6 +121,6 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 
 If you’d like to connect or collaborate:
 
-* Email: [your-email@example.com](mailto:rajy22908@gmail.com)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/yogesh-s-067535226)
+* Email: [rajy22908@gmail.com](mailto:rajy22908@gmail.com)
+* LinkedIn: [Yogesh](https://linkedin.com/in/yogesh-s-067535226)
 
